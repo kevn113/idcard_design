@@ -1,0 +1,2 @@
+[3304:10512:1009/145046.130:VERBOSE1:installer.cc(383)] "C:\Users\Lab 25\Downloads\ChromeSetup.exe" --install=appguid={8A69D345-D564-463C-AFF1-A69D9E530F96}&iid={8A8D72E0-8D99-838C-31AE-99AB928670BC}&lang=en&browser=5&usagestats=1&appname=Google%20Chrome&needsadmin=prefers&ap=x64-statsdef_1&installdataindex=empty --enable-logging --vmodule=*/components/winhttp/*=1,*/components/update_client/*=2,*/chrome/updater/*=2
+[3304:10512:1009/145223.091:VERBOSE1:installer.cc(488)] Metainstaller WMain returned: 73500, Windows error: 0
